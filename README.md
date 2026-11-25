@@ -1,5 +1,7 @@
 # SEO Blog Writer: a Claude Skill
 
+<a href="https://www.claudeai.directory/launches/seo-blog-writer" target="_blank" rel="noopener"><img src="https://www.claudeai.directory/badge/seo-blog-writer" alt="seo-blog-writer - Listed on Claude AI Directory" width="220" height="54" /></a>
+
 SEO Blog Writer is a Claude Skill that researches a keyword on the live web (Google SERP, People Also Ask, Reddit, Quora and AI answers), filters the best keywords by intent and business value, and writes a 3,000+ word blog optimized for semantic SEO, AEO and GEO. It finishes with ready-to-paste SEO fields (slug, title, meta description, image alt text, tags) and FAQ schema in JSON-LD, and it refuses to invent statistics, results or links.
 
 ## What it does
