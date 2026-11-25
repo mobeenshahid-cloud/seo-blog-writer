@@ -21,7 +21,7 @@ SEO Blog Writer is a Claude Skill that researches a keyword on the live web (Goo
 **Claude Code**
 
 ```bash
-git clone https://github.com/<your-username>/seo-blog-writer.git ~/.claude/skills/seo-blog-writer
+git clone https://github.com/<mobeenshahid-cloud>/seo-blog-writer.git ~/.claude/skills/seo-blog-writer
 ```
 
 Restart Claude Code. The skill loads when you ask for an SEO blog.
